@@ -9,8 +9,17 @@ verify_ssl = true
 jupyter = "*"
 scikit-image = "*"
 qt5-applications = "*"
-pyside6 = "*"
+pyside6 = "==6.2.1"
 opencv-python = "*"
+pytesseract = "*"
+imutils = "*"
+imageio = "*"
+jinja2 = "==3.0.3"
+jupyter-client = "==7.1.0"
+jupyter-core = "==4.9.1"
+napari-svg = "*"
+napari-tifffile-reader = "*"
+napari = "*"
 
 [requires]
 python_version = "3.8"
